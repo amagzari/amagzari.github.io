@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical and Computer ENgineering, Worcester Polytechnic Institute, 2012
-kkkkkkk
+kkkkkkkfff
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
