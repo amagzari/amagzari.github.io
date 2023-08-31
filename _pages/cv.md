@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Jan. 2023 - Present: Data Scientist, mHealth Research Group, UBV
+* Jan. 2023 - Present: Data Scientist, mHealth Research Group, UBC
   * Constructed NLP pipelines to extract insight from patient-clinician conversations during COVID-19 in Rwanda
   * Supervised summer co-op students
   * Performed topic classification: implemented standard feature extractors (bag of words, TF-IDF) and tuned hyper-parameters of ML algorithms (logistic regression, random forests, …); fine-tuned transformer-based language models such as BERT, Longformer and AfriBERTa
