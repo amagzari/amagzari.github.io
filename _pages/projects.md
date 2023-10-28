@@ -14,3 +14,7 @@ Our purpose is to develop deep learning models to detect whether images are huma
 ## [A Java-built Reinforcement Learning Agent in Robocode](/files/robocode.pdf) 
 
 This project implements both on-policy (Sarsa) and off-policy (Q-learning) temporal difference control algorithms to populate a lookup table where several state-action pairs correspond to a specific q-value. The agent was able to achieve a winning rate of 85% after playing 2500 rounds.
+
+## [XOR Function Approximator](/files/robocode.pdf) 
+
+This titorial covers the basic mathematical operations of a neural network, and convergence improvement obtained when using bipolar representation and momentum.
